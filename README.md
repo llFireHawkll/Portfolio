@@ -13,7 +13,10 @@
 
 
 
-<img src  = "https://github-readme-stats.vercel.app/api?username=llFireHawkll&&show_icons=true&title_color=EEC935&icon_color=bb2acf&text_color=08E78B&bg_color=151515">
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=llFireHawkll&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llFireHawkll&theme=radical&layout=compact" />
+</div>
 
 
 
