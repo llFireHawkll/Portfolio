@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m @SparshDutta
 - 👀 I love learning new technologies and techniques
-- 🌱 I’m currently working as a Data Scientist in R&D Division
+- 🌱 I’m currently working as a Senior Data Scientist in R&D Division
 - 🤖 I love solving complex problems and participating in ML competitions
-- 💞️ I’m looking for exciting work in the field of NLP, CV and Data Science
+- 💞️ I’m looking for exciting work in the field of MLOPs, NLP, CV, and Data Science
 - 📫 How to reach me?? ==> sparsh.dtt@gmail.com
 
 ### CONNECT WITH ME ON LINKEDIN <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="40" height="40">
